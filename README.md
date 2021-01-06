@@ -1,5 +1,5 @@
 # good-readme-generator
-Title:README Generator
+README Generator
 
  
     Link to my video (Google Chrome)
@@ -14,7 +14,8 @@ Title:README Generator
     Instalation:You need to be sure node is installed for node index.js as well as the node inquirer package.  
     
     
-    License:MIT
+    License:MIT:  See LICENSE.txt file
+    
     
     Test:Documentation coming soon
     Contributers:My UNCC Bootcamp provided a startup code while I provided the questions and code to create the README in the termanal
