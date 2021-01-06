@@ -1,7 +1,8 @@
 # good-readme-generator
 email:spikebroughton@aol.com
 Title:README Generator
-    Description:My project is a Readme Generator that tells the user what questions and functions I used to create the projct and also features a video demonstration of how I succesfully uploaded my project
+    Description:My project is a Readme Generator that tells the user what questions and functions I used to create the projct and also features a video demonstration of how I succesfully uploaded my project.  I made sure to install inquirer and then typed out all of my questions including the type, message and name in my index.js file.  I also used the terminal using node index.js to type in the answers to all of my question which created the README Generator.  
+
     
     Table of Contents:
     Instalation:You need to be sure node is installed for node index.js as well as the node inquirer package.  
@@ -20,4 +21,3 @@ Title:README Generator
     
      
 username: jbrough0
-Description:My project is a Readme Generator that tells the user what questions and functions I used to create the projct and also features a video demonstration of how I succesfully uploaded my project.  I made sure to install inquirer and then typed out all of my questions including the type, message and name in my index.js file.  I also 
