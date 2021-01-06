@@ -14,7 +14,7 @@ README Generator
     Instalation:You need to be sure node is installed for node index.js as well as the node inquirer package.  
     
     
-    License:MIT:  See LICENSE.txt file
+    License:MIT:  See LICENSE file
     
     
     Test:Documentation coming soon
