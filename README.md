@@ -1,6 +1,4 @@
 # good-readme-generator
-username: jbrough0
-email:spikebroughton@aol.com
 Title:README Generator
 
  
@@ -26,4 +24,5 @@ Title:README Generator
     
     
     
-    
+    User name:jbrough0 https://github.com/Jbrough0
+ Email: spikebroughton@aol.com
